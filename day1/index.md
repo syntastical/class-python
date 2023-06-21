@@ -14,3 +14,4 @@ z = True
 # Printing
 print('this is a string')  
 print(x)
+print(f"{x}{y}{z}")
