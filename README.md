@@ -1,3 +1,10 @@
+# Getting started
+1. Login to computer
+2. Open Chrome
+3. Navigate to replit.com
+4. Login if you have an account otherwise create and account using email (not google).
+5. Create a new tab and navigate to github.com/syntastical/class-python
+
 # Python
 Python is dynamically typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library.
 
